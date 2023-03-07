@@ -5,4 +5,4 @@ This project is about Generative Adversarial Network (GAN). This is mini-project
 In this project, I implemented GAN and LSGAN (Least Squares). The top-level notebook "MP4.ipynb" contains the general flow on the training and some results.
 The folder "gan" contains the models and other utility files. The training images of cats can be obtained on the project link above or by unpacking the "download_cat.sh" file.
 
-The utility files and main function was written by TA's, but I wrote the files losses.py, models.py, spectral_normalization.py, and train.py.
+The utility files and main function were written by TA's, but I wrote the files losses.py, models.py, spectral_normalization.py, and train.py.
